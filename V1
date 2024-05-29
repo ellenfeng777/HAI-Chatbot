@@ -2837,17 +2837,16 @@
 <script src="/themes/custom/hairobotics/dist/hairobotics.js?v=9.5.10" defer></script>
 <script src="/sites/default/files/js/js_QZHjAaCQq8xYiz-NV7UI-HMZP7pC8uIsW4rZmNcjkzA.js"></script>
 <script>
-    window.embeddedChatbotConfig = {
-    chatbotId: "wrlXFO7kEb7Gqd5LtT5s1",
-    domain: "www.chatbase.co"
-    }
-    </script>
-    <script
-    src="https://www.chatbase.co/embed.min.js"
-    chatbotId="wrlXFO7kEb7Gqd5LtT5s1"
-    domain="www.chatbase.co"
-    defer>
-    </script>
-
+window.embeddedChatbotConfig = {
+chatbotId: "wrlXFO7kEb7Gqd5LtT5s1",
+domain: "www.chatbase.co"
+}
+</script>
+<script
+src="https://www.chatbase.co/embed.min.js"
+chatbotId="wrlXFO7kEb7Gqd5LtT5s1"
+domain="www.chatbase.co"
+defer>
+</script>
   </body>
 </html>
